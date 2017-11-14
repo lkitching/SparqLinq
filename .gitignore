@@ -1,0 +1,7 @@
+.vs/
+*.csproj.user
+SparqLinq/obj/
+SparqLinq/bin/
+SparqLinq.Example/obj/
+SparqLinq.Example/bin/
+packages/

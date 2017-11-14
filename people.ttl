@@ -1,0 +1,8 @@
+@base <http://example.org/people/>.
+@prefix test: <http://test/>.
+
+<dave1>
+	a test:person;
+	test:name "daveotron";
+	test:age 31;
+	test:hobby "stamp collecting".
